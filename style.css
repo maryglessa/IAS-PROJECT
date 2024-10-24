@@ -77,11 +77,13 @@ body {
     color: black;
     text-decoration: none;
     display: block;
+    margin-left: 0%;
 }
 
 .dropdown-content a:hover {
     background-color: #04a6bd;
     color: white;
+     margin-left: 0%;
 }
 
 /* Highlighted link */
